@@ -1,5 +1,11 @@
 # D2C Customer Churn Intelligence — Part 2: RFM Segmentation & Retention Strategy
 
+## Student & Course Information
+* **Student Name:** Mohammad Owais
+* **Registration Number:** iitp_aiml_2506198
+* **Email:** zkzonfamily@gmail.com
+* **Course:** IIT Patna AI/ML Course Capstone
+
 This repository contains **Part 2** of the 4-part D2C Personal-Care Churn Intelligence Capstone Project. It implements an empirical, data-driven behavioral segmentation model using Recency, Frequency, and Monetary (RFM) metrics calculated from pre-snapshot transactions, integrates multi-source non-RFM risk factors, and outlines a targeted operational retention strategy.
 
 ## Project Structure
